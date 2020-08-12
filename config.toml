@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Task #1"
+theme = "slim"
+
+[params]
+  Subtitle = "First Task - Personal Blog -  Frank López"
+  mainSections = ["posts"]
