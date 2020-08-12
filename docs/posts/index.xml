@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Task #1</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Task #1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Aug 2020 13:30:43 -0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Friday</title>
+      <link>http://example.org/posts/friday/</link>
+      <pubDate>Wed, 12 Aug 2020 13:30:43 -0600</pubDate>
+      
+      <guid>http://example.org/posts/friday/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nulla enim, pulvinar quis vehicula eu, pellentesque id magna. Sed nunc dolor, imperdiet vel placerat sed, lobortis vel erat. Donec augue mauris, ornare sit amet lectus id, blandit auctor dui. Praesent interdum quam quis ex sodales, id laoreet leo bibendum. Vestibulum consectetur, lacus vel pretium bibendum, magna metus euismod enim, ac posuere augue erat rhoncus lacus. Donec vel vulputate ligula, eu blandit lorem.</description>
+    </item>
+    
+    <item>
+      <title>Thursday</title>
+      <link>http://example.org/posts/thursday/</link>
+      <pubDate>Wed, 12 Aug 2020 13:30:09 -0600</pubDate>
+      
+      <guid>http://example.org/posts/thursday/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tortor urna, tincidunt ac justo eu, elementum vulputate lectus. Aenean tincidunt erat ac justo ornare, pharetra varius ipsum lobortis. Vivamus nec magna lectus. Ut auctor leo in tempus mollis. Maecenas in aliquam erat. Ut a placerat turpis. Nulla erat purus, cursus sollicitudin hendrerit porta, ullamcorper nec tellus.
+Aenean aliquet odio in neque elementum, quis vulputate dui finibus. In non mi dapibus, placerat justo ac, finibus mi.</description>
+    </item>
+    
+    <item>
+      <title>Wednesday</title>
+      <link>http://example.org/posts/wednesday/</link>
+      <pubDate>Wed, 12 Aug 2020 13:29:39 -0600</pubDate>
+      
+      <guid>http://example.org/posts/wednesday/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium pulvinar dolor nec aliquam. Morbi et neque eu orci congue porttitor sed nec tellus. Sed rutrum vehicula nisl, a varius est sodales eget. Integer molestie lacus ac rutrum porta. Phasellus varius neque at libero ultrices ullamcorper. Cras nec orci eu mauris feugiat mollis lobortis at elit. Etiam efficitur orci sit amet ex porttitor, vitae malesuada sapien elementum. Maecenas sed ex sapien.</description>
+    </item>
+    
+    <item>
+      <title>Tuesday</title>
+      <link>http://example.org/posts/tuesday/</link>
+      <pubDate>Wed, 12 Aug 2020 13:29:13 -0600</pubDate>
+      
+      <guid>http://example.org/posts/tuesday/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales erat et sollicitudin placerat. Morbi at venenatis velit. Praesent malesuada laoreet porttitor. Aliquam placerat ultrices ligula ut vulputate. Pellentesque nec luctus sem, quis suscipit urna. Pellentesque sagittis, lacus non ornare mattis, felis massa venenatis metus, sit amet elementum nulla justo vitae metus. Etiam iaculis est felis, at finibus ante consectetur ac. Integer auctor ultricies justo, et volutpat felis consequat ac. Etiam vel laoreet augue.</description>
+    </item>
+    
+    <item>
+      <title>Monday</title>
+      <link>http://example.org/posts/monday/</link>
+      <pubDate>Wed, 12 Aug 2020 13:16:23 -0600</pubDate>
+      
+      <guid>http://example.org/posts/monday/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id nunc nunc. Integer dignissim eros non justo laoreet porta. Sed commodo eu turpis vel sollicitudin. Sed pharetra fermentum mattis. Mauris quis ante porta, vehicula felis eget, sollicitudin leo. In hac habitasse platea dictumst. Quisque nec odio scelerisque felis lacinia tristique. Aenean consequat nulla neque, vel pharetra ex finibus in. Aenean ut nulla eu augue vestibulum viverra. Duis ornare dui metus, sed varius libero auctor ac.</description>
+    </item>
+    
+  </channel>
+</rss>
